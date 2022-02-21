@@ -1,0 +1,5 @@
+# ninja log v5
+927	2577	6669863480185968	exercicios.exe	fd500fb0a4c96a72
+3	927	6669863463741490	CMakeFiles/exercicios.dir/main.cpp.obj	20a2d25a8989a80e
+1	841	6671102352664277	build.ninja	fe1ff9a14edc2fdb
+4	317	6669870049418242	CMakeFiles/exercicios.dir/exercicio_1/exercicio_1.cpp.obj	fadc15bad6c27c9d

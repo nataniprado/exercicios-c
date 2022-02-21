@@ -1,0 +1,3 @@
+C:/Users/Natani/OneDrive - Fatec Centro Paula Souza/Documents/Desktop/exercicios-ads/exercicios-c/cmake-build-debug/CMakeFiles/exercicios.dir
+C:/Users/Natani/OneDrive - Fatec Centro Paula Souza/Documents/Desktop/exercicios-ads/exercicios-c/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Natani/OneDrive - Fatec Centro Paula Souza/Documents/Desktop/exercicios-ads/exercicios-c/cmake-build-debug/CMakeFiles/rebuild_cache.dir
